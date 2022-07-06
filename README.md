@@ -4,21 +4,22 @@
 <div align="center">
 
 # Hello, I'm Subin👋
-노는게 제일 조아😝 <br>
-🌱 I’m currently learning:<br>
-Quant, Big data, Machine Learning, Deep Learning, Python
+🎵노는게 제일 조아~ <br>
+  친구들 모여라😝 <br>
+  언제나! 즐거워! <br>
+  내이름은 전수빈🎵<br>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxxuvny%2Fhit-counter&count_bg=%23E1DCD9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/xxuvny)
 
 ![gif](https://c.tenor.com/m2Mn1MeXfkcAAAAC/pororo-dancing.gif)
-![gif](https://social-phinf.pstatic.net/20211101_290/1635760853565SdeVU_GIF/QuerulousWindyBull-size_restricted.gif)
 
 <br>
 
 ---
 
-### ⚒️ Skill Stack ⚒️
-![python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)  ![Ruby](https://img.shields.io/badge/Ruby_on_Rails-CC342D?style=flat-square&logo=Ruby&logoColor=white)  
+### 📝 Learning 📝
+![python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-092E20?style=flat-square&logo=MySQL&logoColor=white)  
 
 <br>
 
