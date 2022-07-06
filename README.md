@@ -1,8 +1,8 @@
-
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HELLO🙋🏻‍♀️&fontSize=90&desc=Subin's%20GitHub%20Profile&descAlignY=65)
 
-<div align="center">
-
+  
 # Hello, I'm Subin👋
 🎵노는게 제일 조아~ <br>
   친구들 모여라😝 <br>
