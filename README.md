@@ -19,18 +19,19 @@
 ---
 
 ### 📝 Learning 📝
-![python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-092E20?style=flat-square&logo=MySQL&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  ![python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)  
+
 
 <br>
 
 ### ✨ Cowork Tools ✨
-![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)  ![notion](https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white)  ![slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
+![slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)  ![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)  ![notion](https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white)
 
 <br>
 
 ### ☁️ SNS List ☁️
-<a href="https://www.instagram.com/byobyo_run/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://byobyomanager.com/" target="_blank"><img src="https://img.shields.io/badge/Tstory-E1DCD9?style=flat-square&logoColor=white"/></a>
+<a href="https://www.instagram.com/xxuvny/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
 
 <br>
 
