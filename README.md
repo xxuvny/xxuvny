@@ -5,10 +5,7 @@
   
 # Hello, I'm Subin👋
 
-🎵노는게 제일 조아~ <br>
-  친구들 모여라😝 <br>
-  언제나! 즐거워! <br>
-  내이름은 전수빈🎵<br>
+🎵 노는게 제일 조아~ 🎵<br>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxxuvny%2Fhit-counter&count_bg=%23E1DCD9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/xxuvny)
